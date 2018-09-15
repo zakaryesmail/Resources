@@ -1,9 +1,9 @@
 ## Welcome to the ADST-Drafting-9 GitHub Pages
 
-#### ADST Drafting Badge Boards
+### ADST Drafting Badge Boards
 [Grade 9](http://www.forallrubrics.com/badge/board/2fce9c56-04b6-4a57-ad99-6b18bf367e24/)
 
-#### Videos
+### Videos
 [You Can Learn Anything](https://www.khanacademy.org/resources/parents-mentors-1/helping-your-child/v/you-can-learn-anything)
 
 [Why You Need to Fail](https://www.youtube.com/watch?v=AWwDzHFSyLs)
