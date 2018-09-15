@@ -23,6 +23,15 @@ This page contains various resources and educational material for students in AD
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 
 
+### Isometric View & Orthographic Projections
+[Orthographic Projection Interactive](https://www3.ul.ie/~rynnet/orthographic_projection_fyp/webpages/home.html)
+
+[Isometric Drawing Tool](https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Isometric-Drawing-Tool/)
+
+[Interpreting Engineering Drawings](https://www.wisc-online.com/learn/career-clusters/stem/eng19204/orthographic-projection-1)
+
+[One Point Perspective Drawing](https://www.studentartguide.com/articles/one-point-perspective-drawing)
+
 
 
 
