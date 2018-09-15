@@ -5,6 +5,10 @@ This page contains various resources and educational material for students in AD
 ### ADST Drafting Badge Boards
 [Grade 9](http://www.forallrubrics.com/badge/board/2fce9c56-04b6-4a57-ad99-6b18bf367e24/)
 
+### The Future
+
+[The Future of Making Buildings](https://www.youtube.com/watch?v=Kg0gbG1DAkk)
+
 ### Videos
 [You Can Learn Anything](https://www.khanacademy.org/resources/parents-mentors-1/helping-your-child/v/you-can-learn-anything)
 
@@ -31,6 +35,7 @@ This page contains various resources and educational material for students in AD
 [Interpreting Engineering Drawings](https://www.wisc-online.com/learn/career-clusters/stem/eng19204/orthographic-projection-1)
 
 [One Point Perspective Drawing](https://www.studentartguide.com/articles/one-point-perspective-drawing)
+
 
 
 
