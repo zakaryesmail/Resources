@@ -9,6 +9,8 @@ This page contains various resources and educational material for students in AD
 
 [The Future of Making Buildings](https://www.youtube.com/watch?v=Kg0gbG1DAkk)
 
+[Drafting Careers](https://www.youtube.com/watch?v=8c_4DNtyEMs&feature=youtu.be)
+
 ### Videos
 [You Can Learn Anything](https://www.khanacademy.org/resources/parents-mentors-1/helping-your-child/v/you-can-learn-anything)
 
