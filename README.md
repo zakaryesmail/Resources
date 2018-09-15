@@ -1,5 +1,7 @@
 ## Welcome to the ADST-Drafting-9 GitHub Pages
 
+This page contains various resources and educational material for students in ADST Drafting 9.
+
 ### ADST Drafting Badge Boards
 [Grade 9](http://www.forallrubrics.com/badge/board/2fce9c56-04b6-4a57-ad99-6b18bf367e24/)
 
