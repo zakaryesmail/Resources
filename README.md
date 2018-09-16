@@ -12,6 +12,10 @@ This page contains various resources and educational material for students in AD
 ### ADST Drafting Badge Boards
 [Grade 9](http://www.forallrubrics.com/badge/board/2fce9c56-04b6-4a57-ad99-6b18bf367e24/)
 
+|We issue [OpenBadges](https://openbadges.org/)|
+|-----|
+|<img src="http://i66.tinypic.com/a40v0y.png" length="96" width="96"/><img src="http://i65.tinypic.com/e1506r.png" length="96" width="96"/>|
+
 ### The Future
 
 [The Future of Making Buildings](https://www.youtube.com/watch?v=Kg0gbG1DAkk)
