@@ -34,6 +34,8 @@ This page contains various resources and educational material for students in AD
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 
+[GitHub Markdown Emojis](https://gist.github.com/rxaviers/7360908)
+
 
 ### Isometric View & Orthographic Projections
 [Orthographic Projection Interactive](https://www3.ul.ie/~rynnet/orthographic_projection_fyp/webpages/home.html)
