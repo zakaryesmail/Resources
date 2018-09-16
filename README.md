@@ -50,6 +50,6 @@ This page contains various resources and educational material for students in AD
 
 
 
-### Support or Contact
+### Contact
 
-Any questions of comments? Email Dr. Chugani at mchugani@wvschools.ca.
+Any questions or comments? Email Dr. Chugani at mchugani@wvschools.ca.
