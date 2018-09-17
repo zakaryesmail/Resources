@@ -46,6 +46,8 @@ This page contains various resources and educational material for students in AD
 
 [Isometric Drawing Tool](https://www.nctm.org/Classroom-Resources/Illuminations/Interactives/Isometric-Drawing-Tool/)
 
+[Isometric Drawing and 3D Cubes](http://passyworldofmathematics.com/isometric-drawing-and-3d-cubes/)
+
 [Interpreting Engineering Drawings](https://www.wisc-online.com/learn/career-clusters/stem/eng19204/orthographic-projection-1)
 
 [One Point Perspective Drawing](https://www.studentartguide.com/articles/one-point-perspective-drawing)
