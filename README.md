@@ -40,6 +40,11 @@ This page contains various resources and educational material for students in AD
 
 [GitHub Markdown Emojis](https://gist.github.com/rxaviers/7360908)
 
+### Freehand Sketching
+[How to Draw Straight Lines](https://www.youtube.com/watch?v=YLsAPZzs3Nc)
+
+[Intro to Technical Drawing: Straight Lines](https://www.youtube.com/watch?time_continue=6&v=A2k2x0OVq8A)
+
 
 ### Isometric View & Orthographic Projections
 [Orthographic Projection Interactive](https://www3.ul.ie/~rynnet/orthographic_projection_fyp/webpages/home.html)
