@@ -43,7 +43,7 @@ This page contains various resources and educational material for students in AD
 ### Freehand Sketching
 [How to Draw Straight Lines](https://www.youtube.com/watch?v=YLsAPZzs3Nc)
 
-[Intro to Technical Drawing: Straight Lines](https://www.youtube.com/watch?time_continue=6&v=A2k2x0OVq8A)
+[Intro to Technical Sketching: Straight Lines](https://www.youtube.com/watch?time_continue=6&v=A2k2x0OVq8A)
 
 
 ### Isometric View & Orthographic Projections
